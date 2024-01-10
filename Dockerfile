@@ -1,3 +1,3 @@
 FROM alpine
-ENV my_name=naveen               
+ENV my_name=sriveen              
 CMD set
