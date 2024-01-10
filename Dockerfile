@@ -1,4 +1,3 @@
 FROM alpine
-ENTRYPOINT ["echo"]                 
-CMD ["Hello"]
-      
+ENV my_name=naveen               
+CMD set
